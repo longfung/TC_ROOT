@@ -1,3 +1,4 @@
 fifth lines from workdir
 New line edited from workdir
 thrid line from workdir
+end line
